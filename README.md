@@ -30,8 +30,9 @@ What I learned:
 
 Images:
 - Screenshot of my endpoint connected to my SIEM
-  
-  <img width="1920" height="598" alt="wazuh-active-endpoint" src="https://github.com/user-attachments/assets/a6b0f99e-68a6-4050-96bf-db42c33b2b47" />
+
+  <img width="1920" height="598" alt="wazuh-active-endpoint" src="https://github.com/user-attachments/assets/3907ccab-1e7c-4d6b-a8e5-3519cb754792" />
+
 - Screenshot of brute force attempts
   
   <img width="817" height="539" alt="fail-auth-kali-endpoint" src="https://github.com/user-attachments/assets/dc93703f-bca1-4fdc-accd-a5d0e28efee2" />
